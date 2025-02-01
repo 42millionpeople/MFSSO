@@ -1,2 +1,2 @@
-## MFS SO ELECTRIC VEHICLE
-code for electric vehicle event
+## MFS SO Code
+code for electric vehicle and robot tour events
